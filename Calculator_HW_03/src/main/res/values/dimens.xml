@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_for_label">20sp</dimen>
+    <dimen name="label_padding">8dp</dimen>
+    <dimen name="between_butt_margin">4dp</dimen>
+    <dimen name="between_butt_margin_long">8dp</dimen>
+    <dimen name="text_button_size">32sp</dimen>
+    <dimen name="text_orange_button_size">14sp</dimen>
+    <dimen name="butt_width">66dp</dimen>
+    <dimen name="butt_height">76dp</dimen>
+    <dimen name="orange_butt_height">44dp</dimen>
+    <dimen name="margin_between_buttons">16dp</dimen>
+    <dimen name="margin_between_button_rows">8dp</dimen>
+    <dimen name="lsd_text_sixe">64sp</dimen>
+    <dimen name="header">24sp</dimen>
+</resources>

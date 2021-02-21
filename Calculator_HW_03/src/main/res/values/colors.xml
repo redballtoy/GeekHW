@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">@android:color/holo_blue_bright</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey_text">#656462</color>
+    <color name="button_background_light">#98938D</color>
+    <color name="button_background_dark">#6D665C</color>
+    <color name="orange_button_background">#E67A15</color>
+    <color name="background_body">#383838</color>
+    <color name="background_lcd">#D8DED2</color>
+    <color name="background_body_light">#403F3D</color>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BasicAndroid_HW_01</string>
+    <string name="butt_01">Go></string>
+    <string name="textview">TextView</string>
+    <string name="sw_name">Switch</string>
+    <string name="check_box">Check Box</string>
+    <string name="et_et">Введите e-mail адрес</string>
+    <string name="text_ems">Ems - это просто размер шрифта.
+        Таким образом, в элементе с шрифтом 2 дюйма 1em означает 2 дюйма.
+        Выражение размеров, таких как поля и отступы, в ems означает,
+        что они связаны с размером шрифта, и если у пользователя есть
+        большой шрифт (например, на большом экране) или мелкий шрифт
+        (например, на портативном устройстве), размеры будут пропорциональны.
+    </string>
+    <string name="inputtype_text">InputType=text</string>
+    <string name="inputtype_textPersonName">InputType=textPersonName</string>
+    <string name="inputtype_phone">InputType=phone</string>
+    <string name="inputtype_number">InputType=number</string>
+    <string name="inputtype_textPassword">InputType=password</string>
+    <string name="inputtype_textEmailAddress">InputType=textEmailAddress</string>
+</resources>

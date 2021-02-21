@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Calculator_HW_02</string>
+    <string name="calculator_lcd">Calculator LCD</string>
+    <string name="_00">00</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="_9">9</string>
+    <string name="on_off">Off/On </string>
+    <string name="_0_00">.00 </string>
+    <string name="back_arrow"><![CDATA[<]]></string>
+    <string name="m_plus">m+</string>
+    <string name="m_minus">m-</string>
+    <string name="m_clear">mc</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_0">0</string>
+    <string name="point">.</string>
+    <string name="_x">x</string>
+    <string name="m">M</string>
+    <string name="_4">4</string>
+    <string name="left_bracket">(</string>
+    <string name="right_bracket">)</string>
+    <string name="_c">C</string>
+    <string name="percent">%</string>
+    <string name="result">=</string>
+    <string name="exponent">Exp</string>
+    <string name="sqr">Sqr</string>
+    <string name="div">/</string>
+    <string name="_0_comma">0.</string>
+    <string name="message_exit">Хотите закрыть приложение?</string>
+    <string name="round_0">Округляем до целого!</string>
+    <string name="round_00">Округляем до сотых!</string>
+    <string name="_0_0">0.</string>
+</resources>
